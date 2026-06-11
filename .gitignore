@@ -28,3 +28,6 @@ scripts/generate-thumbnails.sh
 scripts/generate-thumbnails-*.sh
 scripts/generate-ab-variants*.sh
 scripts/regen-*.sh
+
+# Rendered video outputs (large binaries; reproducible from the build scripts)
+*.mp4
