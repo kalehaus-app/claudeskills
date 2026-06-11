@@ -91,3 +91,14 @@ These are confirmed behaviors of the Arcads external API.
 
 - Every agent session that generates assets should create (or reuse) a folder named **"Arcads API - YYYY-MM-DD"** with a matching project inside it, then assign all generated assets to that project.
 - API calls: `POST /v1/folders`, `POST /v1/projects`, `POST /v1/assets/add-to-project`. Check `GET /v1/products/{productId}/folders` first to avoid duplicates.
+
+
+## Changelog
+
+### 2026-06-11 — Kids nursery-rhyme YouTube Shorts pipeline
+- **Decision:** Generate viral preschool nursery-rhyme Shorts via **Higgsfield** (MCP, Ultra plan ~3774 credits), NOT Arcads (.env key not yet set).
+- **Locked style:** Bright glossy **3D Cocomelon-style**, vertical **9:16**, model **veo3_1** (veo-3-1-fast), duration **8s**, quality **high**, ~**22 credits/clip**. Audio: AI sing-along baked in (Variant B chosen over music-free Variant A).
+- **Prompt recipe:** "Bright glossy 3D animated cartoon for preschoolers (Cocomelon-style)" + huge sparkly eyes, squishy toy-like proportions, candy-saturated colors + "Cheerful upbeat sing-along nursery-rhyme music" + "No subtitles, no on-screen text. Vertical 9:16."
+- **Gotcha:** Higgsfield may suggest the unrelated dark "IN THE DARK" preset — decline via `declined_preset_id: 24bae836-2c4a-48e0-89b6-49fcc0b21612` and regenerate literally.
+- **Workflow:** Generate 4-6 8s clips per rhyme, stitch into 30-60s Short; optionally overlay own classic rhyme track in editor for clean recognizable melodies.
+- **Hero + batch 1 rhymes:** Wheels on the Bus (animals), Itsy Bitsy Spider, Five Little Ducks, Old MacDonald, Twinkle Twinkle, Five Little Monkeys. Full source list in user's compilation.
