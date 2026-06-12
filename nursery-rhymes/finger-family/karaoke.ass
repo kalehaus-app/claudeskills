@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sing, Arial Rounded MT Bold, 74, &H00FFFFFF, &H0033E0FF, &H00202020, &H64000000, -1, 0, 0, 0, 100, 100, 0, 0, 1, 5, 3, 2, 80, 80, 70, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.50,0:00:04.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k52}Cat {\k122}family, {\k52}cat {\k124}family,
+Dialogue: 0,0:00:04.00,0:00:07.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k85}sing {\k106}along {\k85}with {\k64}me!
+Dialogue: 0,0:00:08.50,0:00:12.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k58}Daddy {\k47}cat, {\k58}daddy {\k47}cat, {\k58}where {\k35}are {\k47}you?
+Dialogue: 0,0:00:12.00,0:00:15.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:00:16.50,0:00:20.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k58}Daddy {\k47}cat, {\k58}daddy {\k47}cat, {\k47}what {\k23}do {\k35}you {\k35}do?
+Dialogue: 0,0:00:20.00,0:00:23.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k93}Exercise, {\k93}exercise, {\k62}that's {\k41}what {\k21}I {\k30}do!
+Dialogue: 0,0:00:24.50,0:00:28.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k58}Mommy {\k47}cat, {\k58}mommy {\k47}cat, {\k58}where {\k35}are {\k47}you?
+Dialogue: 0,0:00:28.00,0:00:31.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:00:32.50,0:00:36.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k58}Mommy {\k47}cat, {\k58}mommy {\k47}cat, {\k47}what {\k23}do {\k35}you {\k35}do?
+Dialogue: 0,0:00:36.00,0:00:39.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k37}Lots {\k18}of {\k46}work, {\k37}lots {\k18}of {\k46}work, {\k55}that's {\k37}what {\k18}I {\k28}do!
+Dialogue: 0,0:00:40.50,0:00:44.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Brother {\k41}cat, {\k72}brother {\k41}cat, {\k51}where {\k31}are {\k42}you?
+Dialogue: 0,0:00:44.00,0:00:47.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:00:48.50,0:00:52.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Brother {\k41}cat, {\k72}brother {\k41}cat, {\k41}what {\k21}do {\k31}you {\k31}do?
+Dialogue: 0,0:00:52.00,0:00:55.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k93}Dinosaur, {\k93}dinosaur, {\k62}that's {\k41}what {\k21}I {\k30}do!
+Dialogue: 0,0:00:56.50,0:01:00.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Grandpa {\k41}cat, {\k72}grandpa {\k41}cat, {\k51}where {\k31}are {\k42}you?
+Dialogue: 0,0:01:00.00,0:01:03.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:01:04.50,0:01:08.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Grandpa {\k41}cat, {\k72}grandpa {\k41}cat, {\k41}what {\k21}do {\k31}you {\k31}do?
+Dialogue: 0,0:01:08.00,0:01:11.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k50}Fixing {\k58}things, {\k50}fixing {\k58}things, {\k50}that's {\k33}what {\k17}I {\k24}do!
+Dialogue: 0,0:01:12.50,0:01:16.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Grandma {\k41}cat, {\k72}grandma {\k41}cat, {\k51}where {\k31}are {\k42}you?
+Dialogue: 0,0:01:16.00,0:01:19.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:01:20.50,0:01:24.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k72}Grandma {\k41}cat, {\k72}grandma {\k41}cat, {\k41}what {\k21}do {\k31}you {\k31}do?
+Dialogue: 0,0:01:24.00,0:01:27.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k52}Baking {\k52}cakes, {\k52}baking {\k52}cakes, {\k52}that's {\k35}what {\k17}I {\k28}do!
+Dialogue: 0,0:01:28.50,0:01:32.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k66}Sister {\k44}cat, {\k66}sister {\k44}cat, {\k55}where {\k33}are {\k42}you?
+Dialogue: 0,0:01:32.00,0:01:35.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k47}Here {\k23}I {\k35}am, {\k47}here {\k23}I {\k35}am! {\k35}How {\k23}do {\k35}you {\k37}do?
+Dialogue: 0,0:01:36.50,0:01:40.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k66}Sister {\k44}cat, {\k66}sister {\k44}cat, {\k44}what {\k22}do {\k33}you {\k31}do?
+Dialogue: 0,0:01:40.00,0:01:43.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k41}Muddy {\k66}puddles, {\k41}muddy {\k66}puddles, {\k50}that's {\k33}what {\k17}I {\k26}do!
+Dialogue: 0,0:01:44.50,0:01:48.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k39}We {\k58}are {\k58}the {\k58}cat {\k137}family!
+Dialogue: 0,0:01:48.00,0:01:51.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k68}We {\k136}love {\k136}you!
