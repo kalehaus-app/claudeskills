@@ -6,21 +6,22 @@ Word-highlight timing is estimated (AI-generated vocals)."""
 CLIP_LEN = 8.0
 
 # Each entry: (line1, line2 or None)
+# Cat-family version (sung audio says "Daddy cat" etc. to clear Veo's filter).
 CLIPS = [
-    ("Finger family, finger family,", "sing along with me!"),
-    ("Daddy finger, daddy finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Daddy finger, daddy finger, what do you do?", "Exercise, exercise, that's what I do!"),
-    ("Mommy finger, mommy finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Mommy finger, mommy finger, what do you do?", "Lots of work, lots of work, that's what I do!"),
-    ("Brother finger, brother finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Brother finger, brother finger, what do you do?", "Dinosaur, dinosaur, that's what I do!"),
-    ("Grandpa finger, grandpa finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Grandpa finger, grandpa finger, what do you do?", "Fixing things, fixing things, that's what I do!"),
-    ("Grandma finger, grandma finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Grandma finger, grandma finger, what do you do?", "Baking cakes, baking cakes, that's what I do!"),
-    ("Sister finger, sister finger, where are you?", "Here I am, here I am! How do you do?"),
-    ("Sister finger, sister finger, what do you do?", "Muddy puddles, muddy puddles, that's what I do!"),
-    ("We are the finger family!", "We love you!"),
+    ("Cat family, cat family,", "sing along with me!"),
+    ("Daddy cat, daddy cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Daddy cat, daddy cat, what do you do?", "Exercise, exercise, that's what I do!"),
+    ("Mommy cat, mommy cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Mommy cat, mommy cat, what do you do?", "Lots of work, lots of work, that's what I do!"),
+    ("Brother cat, brother cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Brother cat, brother cat, what do you do?", "Dinosaur, dinosaur, that's what I do!"),
+    ("Grandpa cat, grandpa cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Grandpa cat, grandpa cat, what do you do?", "Fixing things, fixing things, that's what I do!"),
+    ("Grandma cat, grandma cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Grandma cat, grandma cat, what do you do?", "Baking cakes, baking cakes, that's what I do!"),
+    ("Sister cat, sister cat, where are you?", "Here I am, here I am! How do you do?"),
+    ("Sister cat, sister cat, what do you do?", "Muddy puddles, muddy puddles, that's what I do!"),
+    ("We are the cat family!", "We love you!"),
 ]
 
 L1_START, L1_END = 0.5, 4.0
