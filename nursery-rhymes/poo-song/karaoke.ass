@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sing, Arial Rounded MT Bold, 72, &H00FFFFFF, &H0033E0FF, &H00202020, &H64000000, -1, 0, 0, 0, 100, 100, 0, 0, 1, 5, 3, 2, 80, 80, 70, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.50,0:00:04.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k100}What's {\k83}brown {\k50}and {\k117}smelly,
+Dialogue: 0,0:00:04.00,0:00:07.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k52}comes {\k41}from {\k41}your {\k62}belly, {\k31}out {\k41}into {\k31}the {\k41}loo?
+Dialogue: 0,0:00:08.50,0:00:12.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k39}Can {\k26}be {\k39}big {\k26}or {\k78}small, {\k52}hard {\k26}or {\k64}soft,
+Dialogue: 0,0:00:12.00,0:00:15.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k44}and {\k133}different {\k103}colours {\k60}too.
+Dialogue: 0,0:00:16.50,0:00:20.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k33}Poo {\k44}poo, {\k33}poo {\k44}poo, {\k33}poo {\k33}poo {\k22}in {\k33}the {\k33}loo {\k42}loo!
+Dialogue: 0,0:00:20.00,0:00:23.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k31}Poo {\k41}poo, {\k31}poo {\k41}poo, {\k82}everyone {\k52}needs {\k21}to {\k41}poo!
+Dialogue: 0,0:00:24.50,0:00:28.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k52}From {\k78}little {\k52}bugs {\k26}to {\k65}birds {\k77}above,
+Dialogue: 0,0:00:28.00,0:00:31.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k60}and {\k60}big {\k140}animals {\k80}too.
+Dialogue: 0,0:00:32.50,0:00:36.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k48}Like {\k109}elephants {\k36}and {\k48}tall {\k109}giraffes,
+Dialogue: 0,0:00:36.00,0:00:39.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k80}cows {\k60}and {\k200}kangaroos!
+Dialogue: 0,0:00:40.50,0:00:44.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k33}Poo {\k44}poo, {\k33}poo {\k44}poo, {\k33}poo {\k33}poo {\k22}in {\k33}the {\k33}loo {\k42}loo!
+Dialogue: 0,0:00:44.00,0:00:47.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k31}Poo {\k41}poo, {\k31}poo {\k41}poo, {\k82}everyone {\k52}needs {\k21}to {\k41}poo!
+Dialogue: 0,0:00:48.50,0:00:52.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k33}What {\k33}goes {\k16}in {\k33}must {\k33}come {\k33}out, {\k24}you {\k41}can't {\k33}deny {\k24}the {\k47}facts.
+Dialogue: 0,0:00:52.00,0:00:55.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k57}Everyone {\k35}poos, {\k21}poo {\k21}poo {\k50}smells, {\k28}it's {\k28}made {\k14}of {\k28}this {\k21}and {\k37}that.
+Dialogue: 0,0:00:56.50,0:01:00.00,Sing,,0,0,0,,{\an2\pos(960,930)}{\k33}Poo {\k44}poo, {\k33}poo {\k44}poo, {\k33}poo {\k33}poo {\k22}in {\k33}the {\k33}loo {\k42}loo!
+Dialogue: 0,0:01:00.00,0:01:03.40,Sing,,0,0,0,,{\an2\pos(960,1010)}{\k143}Everyone {\k89}needs {\k36}to {\k72}poo!
